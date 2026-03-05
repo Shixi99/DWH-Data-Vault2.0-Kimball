@@ -73,5 +73,10 @@ dvproject/
 
 ```
 
+The complete implementation guide is available in the Medium article.
+https://shixieyyub.medium.com/data-vault-2-0-meets-kimball-star-schema-08b7b52ea8c6?postPublishedType=repub
+
+
+
 
 
